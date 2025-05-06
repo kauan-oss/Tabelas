@@ -11,4 +11,7 @@ table a{
 
 li a{
     color: rgb(10, 75, 128);
+    text-decoration: none;
+    list-style-type: none;
 }
+
