@@ -8,3 +8,7 @@ table a{
     color: rgb(10, 75, 128);
     text-decoration: none;
 }
+
+li a{
+    color: rgb(10, 75, 128);
+}
