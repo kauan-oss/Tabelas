@@ -4,7 +4,7 @@ body{
     font-size: 18px;
     line-height: 1.5em;
 }
-td a{
+table a{
     color: rgb(10, 75, 128);
     text-decoration: none;
 }
